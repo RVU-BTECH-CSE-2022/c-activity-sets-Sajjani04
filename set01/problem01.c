@@ -1,5 +1,9 @@
 #include <stdio.h>
 int main()
 {
-  printf("Sajjani.P");
+  char name[10]="SAJJANI";
+  
+  printf("%s", name);
+  return 0;
+  
 }
